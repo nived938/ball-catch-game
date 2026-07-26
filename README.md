@@ -8,6 +8,11 @@ Ensure you have a working camera/webcam connected.
 
 ## Installation
 
+Install 
+```bash
+python 3.12
+```
+
 Install the required python dependencies:
 
 ```bash
